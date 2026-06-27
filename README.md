@@ -33,8 +33,8 @@ Random Forest for fault classification.
 ## Progress
 
 - [x] Session 1 — EDA on NASA C-MAPSS FD001
-- [ ] Session 2 — Data preprocessing and feature engineering
-- [ ] Session 3 — Baseline models
+- [X] Session 2 — Data preprocessing and feature engineering
+- [X] Session 3 — Random Forest classifier, 96% accuracy achieved 
 - [ ] Session 4 — LSTM model
 - [ ] Session 5 — Random Forest classifier
 - [ ] Session 6 — Hybrid pipeline
